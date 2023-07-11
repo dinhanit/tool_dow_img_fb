@@ -4,4 +4,4 @@
 - First: Run file .exe
 - Second: Enter the url of first image
 - Third: Enter number of image you want
-- Last: Wainting
+- Last: Waiting
